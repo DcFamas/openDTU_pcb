@@ -5,11 +5,11 @@ Because I had some Sonoff IP66 waterproofed housings laying around, I thought to
 !/images/1.png
 
 For the whole project you need:
-- of the course the ESP-WROOM-32 with openDTU installed
-- NRF24L01+ with or without the external antenna
-- 0.96inch SSD1306 OLED
-- a condensator up to 100uF and something between 5V and 50V
-- a terminal to connect the wires to, I used KF120-2P
+- of the course the **ESP-WROOM-32** with openDTU installed
+- **NRF24L01+** with or without the external antenna
+- 0.96inch **SSD1306** OLED
+- a **condensator up to 100uF** and something between 5V and 50V
+- a terminal to connect the wires to, I used **KF120-2P**
 - the pcb
 - a Sonoff waterproofed housing
 - a cable gland for the external antenna wider than the M12 standard one
