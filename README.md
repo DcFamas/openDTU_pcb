@@ -2,7 +2,7 @@
 
 Because I had some Sonoff IP66 waterproofed housings laying around, I thought to create my first pcb in EasyEDA. So the *openDTU meets Sonoff* pcb come into being.
 
-!/images/1.png
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 For the whole project you need:
 - of the course the **ESP-WROOM-32** with openDTU installed
