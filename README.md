@@ -19,3 +19,4 @@ For the whole project you need:
 
 Here is my first attempt with a 3d printed layout. Because of the wiring, the cable gland won't fit for the antenna. Now I need to wait for the pcb to arrive. :)
 
+![1](https://github.com/DcFamas/openDTU_pcb/blob/main/images/1.jpg)
